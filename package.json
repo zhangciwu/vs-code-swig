@@ -1,9 +1,9 @@
 {
-	"name": "swig",
-	"displayName": "Swig",
+	"name": "swig-tpl",
+	"displayName": "Swig(.tpl)",
 	"description": "A language support for Swig",
 	"version": "0.0.5",
-	"publisher": "zhutian",
+	"publisher": "zhangciwu",
 	"engines": {
 		"vscode": "^0.10.1"
 	},
@@ -45,10 +45,5 @@
 				"path": "./snippets/snippets.json"
 			}
 		]
-	},
-	"__metadata": {
-		"id": "07e1dd03-92c5-45ef-ab1c-e74986aa3e95",
-		"publisherId": "79a62660-0ab7-4b92-a72c-8c31237be04c",
-		"publisherDisplayName": "zhutian"
 	}
 }

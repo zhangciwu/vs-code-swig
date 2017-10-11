@@ -1,6 +1,7 @@
 # Swig Support for Visual Studio Code
 
 Simple syntax coloring and nice code snippets of Swig.
+Now support .tpl extension name.
 
 ![screenshot](https://raw.githubusercontent.com/unhealthy/vs-code-swig/master/img/screenshot.png)
 
@@ -16,6 +17,7 @@ Feel free to change the [source](https://github.com/unhealthy/vs-code-swig).
 
 ## Credits
 Many thanks to
++ Original swig for vscode, [github](https://github.com/chenzhutian/vs-code-swig)
 + Paul Armstrong for creating this [template engine](http://paularmstrong.github.io/swig/docs/) and providing its [textmate bundle](https://github.com/paularmstrong/Swig.tmbundle)
 
 ## For more Information
