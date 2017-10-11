@@ -2,7 +2,7 @@
 	"name": "swig-tpl",
 	"displayName": "Swig(.tpl)",
 	"description": "A language support for Swig",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"publisher": "zhangciwu",
 	"engines": {
 		"vscode": "^0.10.1"
